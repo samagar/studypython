@@ -1,0 +1,2 @@
+# studypython
+Python study exercises
